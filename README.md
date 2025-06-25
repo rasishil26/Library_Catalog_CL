@@ -36,4 +36,4 @@ Exit
 
 🙋‍♀️ **About Me**
 
-I'm Rasi Shil, a Linguistics student diving into Python and programming one small project at a time. This pr
+I'm Rasi Shil, a Linguistics student diving into Python and programming one small project at a time. This project helped me understand how programs can read and write data — and how even a simple idea like a book catalog can turn into code! 📚
